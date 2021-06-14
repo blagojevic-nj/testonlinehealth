@@ -15,6 +15,9 @@
 	<description>Projekat iz predmeta ISA i MRS</description>
 	<properties>
 		<java.version>11</java.version>
+		<sonar.projectKey>blagojevic-nj_testonlinehealth</sonar.projectKey>
+  		<sonar.organization>blagojevic-nj</sonar.organization>
+ 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 	</properties>
 	<dependencies>
 		<dependency>
